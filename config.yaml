@@ -3,7 +3,7 @@ baseURL: /
 params:
   description: A vanilla theme for Stackbit
   header:
-    title: Stackbit Vanilla
+    title: Expresso
     has_nav: true
     nav_links:
       - label: Home
